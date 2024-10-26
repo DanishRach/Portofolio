@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Hotel Management App",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,35 +72,35 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "E-Commercial UI/UX Design",
+    des: "Created engaging UI/UX designs for an e-commerce platform, enhancing user navigation and boosting conversion rates",
+    img: "/project1.svg",
+    iconLists: ["/figma.svg"],
+    link: "https://www.figma.com/design/BF8Z7DJtpZPtn6iveKnvHR/UI-Tampilan-web?node-id=362-163&t=tRC7cFHLRiOhYHys-1",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Hotel Manajement App",
+    des: "Developed a hotel management app that streamlines reservations, guest services, and operations for improved efficiency (Still on process)",
+    img: "/project2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/gsap.svg"],
+    link: "",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Food Recovery Application",
+    des: "Food Rescue Initiative is an app that reduces food waste by enabling users to buy leftover food at affordable prices. Users can easily browse surplus items from local restaurants, with a seller rating system to ensure quality. It promotes sustainability while offering cost-effective food options.",
+    img: "/project3.svg",
+    iconLists: ["/figma.svg"],
+    link: "https://www.figma.com/design/oN361Km99PVFNWJxwwTl2u/Prototype?node-id=2-1508&t=xpHCcSh34N0asw55-1",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Commemorative Day Poster",
+    des: "Gained experience in conceptualizing, designing, and presenting ideas that resonated with the organization's vision, resulting in high-quality visual content that effectively engaged the audience.",
+    img: "/project4.svg",
+    iconLists: ["/figma.svg", "/canva.svg"],
+    link: "https://www.figma.com/design/kDpCNpa5bZ6EmkHQPWQp5N/poster?node-id=0-1&t=2d4WjrUEdIgjzXG1-1",
   },
 ];
 
@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Lead of graphic design team",
+    desc: "Lead the graphic design team, overseeing creative direction, ensuring cohesive visual identity, and managing collaboration to deliver impactful design solutions",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Contibutor of graphic design for organization",
+    desc: "Contributed to the organization's graphic design efforts, creating visual content that aligns with its goals and enhances brand presence",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Front End Developer",
+    desc: "Developed user-friendly interfaces and optimized web applications for a seamless user experience",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Make a UI/UX Design for projects",
+    desc: "Designed intuitive UI/UX solutions for projects, focusing on enhancing user satisfaction and engagemen",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +205,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/DanishRach",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/danish-rachman",
   },
 ];
+
